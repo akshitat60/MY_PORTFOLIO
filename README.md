@@ -1,2 +1,1 @@
-# MY_PORTFOLIO
-This is my online resume.
+https://akshita-portfolio-magic.lovable.app
